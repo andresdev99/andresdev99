@@ -19,6 +19,7 @@
 ### Here's my github README stats:
 ![andresdev99 GitHub stats](https://github-readme-stats.vercel.app/api?username=andresdev99&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andresdev99&theme=radical)](https://git.io/streak-stats) 
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=andresdev99&show_icons=true&theme=dark)
 
 ## 🛠️ My Skills
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
