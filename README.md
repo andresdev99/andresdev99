@@ -1,6 +1,14 @@
-<h1 align="center">Hi All 👋,</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=70&pause=1000&color=21C51F&random=false&width=436&height=90&lines=Hello+World!;I'm+Andres;Full+Stack+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&pause=1000&color=09C326&random=false&width=435&lines=Helllo+World!;I'm+Andr%C3%A9s%2C+Full+Stack+Developer)](https://git.io/typing-svg)
+![GitHub followers](https://img.shields.io/github/followers/andresdev99?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/andresdev99?style=social) 
+![Visitor](https://komarev.com/ghpvc/?username=andresdev99&label=Profile%20views&color=0e75b6&style=flat)
+![Andres Banner](https://github.com/andresdev99/andresdev99/assets/61853982/89c1a18c-1cc9-4e9c-8ac6-6cd21d222372)
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 - **A huge ***Rick and Morty*** Fan 🥼🥒**
@@ -47,3 +55,19 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝
+<div align="center">
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-guti%C3%A9rrez-6a45541b0" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:andresfelix951@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
