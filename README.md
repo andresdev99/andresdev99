@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=70&pause=1000&color=21C51F&random=false&width=436&height=90&lines=Hello+World!;I'm+Andres;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=70&pause=1000&color=21C51F&random=false&width=600&height=90&lines=Hello+World!;I'm+Andres;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/andresdev99?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/andresdev99?style=social) 
