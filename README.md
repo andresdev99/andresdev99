@@ -71,4 +71,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+![snake gif](https://github.com/andresdev99/andresdev99/blob/output/github-contribution-grid-snake.gif)
 
