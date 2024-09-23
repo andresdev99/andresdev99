@@ -4,7 +4,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/andresdev99?style=social) 
 ![Visitor](https://komarev.com/ghpvc/?username=andresdev99&label=Profile%20views&color=0e75b6&style=flat)
 ![Andres Banner](https://github.com/andresdev99/andresdev99/assets/61853982/89c1a18c-1cc9-4e9c-8ac6-6cd21d222372)
-![snake gif](https://github.com/andresdev99/andresdev99/blob/output/github-contribution-grid-snake.gif)
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
